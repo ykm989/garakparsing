@@ -19,3 +19,4 @@
 [1216/211755.228:ERROR:exception_snapshot_win.cc(99)] thread ID 28868 not found in process
 [1216/230006.712:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
 [1217/144219.597:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1217/171428.998:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
